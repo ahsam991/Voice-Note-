@@ -1,0 +1,12 @@
+{
+  "name": "VoiceNote AI Assistant",
+  "description": "Convert uploaded audio or files into structured, improved notes using AI",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "audio_processing",
+    "ai_transcription",
+    "note_generation"
+  ]
+}
